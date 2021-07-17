@@ -39,14 +39,34 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo base_url('toko/merk/merk_sepeda')?>">
-        <i class="fas fa-bicycle"></i>
-          <span>Sepeda</span></a>
+        <a class="nav-link" href="<?php echo base_url('merk/merk_monitor')?>">
+        <i class="fas fa-desktop"></i>
+          <span>MONITOR</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo base_url('toko/merk/merk_aksesoris')?>">
-        <i class="fas fa-cubes"></i>
-          <span>Aksesoris</span></a>
+        <a class="nav-link" href="<?php echo base_url('merk/merk_laptop')?>">
+        <i class="fas fa-laptop"></i>
+          <span>LAPTOP</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="<?php echo base_url('merk/merk_peripheral')?>">
+        <i class="fas fa-keyboard"></i>
+          <span>PERIPHERAL</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="<?php echo base_url('merk/merk_storage')?>">
+        <i class="fas fa-hdd"></i>
+          <span>STORAGE</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="<?php echo base_url('merk/merk_powersupply')?>">
+        <i class="fas fa-keyboard"></i>
+          <span>POWER SUPPLY</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="<?php echo base_url('merk/merk_memory')?>">
+        <i class="fas fa-keyboard"></i>
+          <span>MEMORY</span></a>
       </li>
     
       

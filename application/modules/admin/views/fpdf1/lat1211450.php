@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$dbnm = "db_toko_sepeda";
+$dbnm = "toko_komputer";
 $conn = mysqli_connect($host,$user,$pass);
 if ($conn) {
 	$open = mysqli_select_db($conn,$dbnm);
